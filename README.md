@@ -1,2 +1,7 @@
-# ICT_Protfolio
-This is my ICT Portfolio assignment
+# My ICT Portfolio
+
+Name: Sibgha Ibrahim
+Program: BSAI
+Semester: 1
+
+This repository is created for my ICT assignment.
